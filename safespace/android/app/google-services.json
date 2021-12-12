@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "57517571938",
+    "project_id": "safespace-4c708",
+    "storage_bucket": "safespace-4c708.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57517571938:android:bce38d2b9b2dcf1471b63b",
+        "android_client_info": {
+          "package_name": "com.cyberstract.safespace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57517571938-9po32lkfpbbmb8r22svu70gp2bvg9f26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhs0EwihkYaNNpDfOqpO9_yl7ip3QrJ18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57517571938-9po32lkfpbbmb8r22svu70gp2bvg9f26.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
