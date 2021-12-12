@@ -1,0 +1,11 @@
+INSTRUCTIONS
+1.	Go to https://docs.flutter.dev/get-started/install
+2.	Follow the steps to install flutter on your computer
+3.	After installing flutter, open your preferred text editor(visual studio is recommended)
+4.	Plug in an android device using a USB cable.
+5.	In the visual studio terminal, type flutter run and wait for the installation to complete.
+6.	Once complete, the app should be opened on your phone.
+7.	With the app open, press register and create an account. After clicking create you are brought to the main page.
+8.	Go to the explore tab and join a group.
+9.	Send a message in the group.
+
